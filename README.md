@@ -1,5 +1,7 @@
 This project applies supervised machine learning techniques to classify penguin species using the Palmer Penguins dataset. The workflow covers the full machine learning pipeline, including data cleaning, exploratory data analysis (EDA), model training, evaluation, and performance improvement.
 
+
+NOTE: you must download the penguins.csv and add it to your google drive in order to run the notebook in google colab.
 Project Overview
 Analysed a real-world dataset containing biological measurements of three penguin species: Adelie, Gentoo, and Chinstrap
 Performed data cleaning by handling missing values and validating dataset integrity
