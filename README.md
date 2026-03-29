@@ -21,4 +21,4 @@ Leave-One-Out Cross Validation (LOO)
 Ensemble Learning
 Bootstrap Aggregation (Bagging) to reduce overfitting and improve performance (~97% accuracy)
 
-Link to the colab notebook: https://drive.google.com/file/d/1XHvoY6MaY21Z8JXrUKhploi-F0iEymHP/view?usp=sharing
+Link to the colab notebook: https://colab.research.google.com/drive/1XHvoY6MaY21Z8JXrUKhploi-F0iEymHP 
